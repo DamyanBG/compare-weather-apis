@@ -1,3 +1,15 @@
 h1 {
     text-align: center;
 }
+
+#container {
+    display: flex;
+    gap: 60px;
+    padding: 12px 30px;
+}
+
+article {
+    border: 1px solid black;
+    padding: 16px;
+    text-align: center;
+}
