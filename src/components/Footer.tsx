@@ -1,12 +1,10 @@
 import React from "react"
+import "./Footer.scss"
 
 const Footer: React.FunctionComponent = () => {
-    const footerStyle: React.CSSProperties = {
-        borderTop: "1px solid"
-    }
 
     return (
-        <footer style={footerStyle}>
+        <footer>
             Footer
         </footer>
     )
