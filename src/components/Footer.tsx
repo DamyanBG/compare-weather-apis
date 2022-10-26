@@ -5,7 +5,7 @@ const Footer: React.FunctionComponent = () => {
 
     return (
         <footer>
-            Footer
+            Open Source project by Damyan Dimitrov
         </footer>
     )
 }
